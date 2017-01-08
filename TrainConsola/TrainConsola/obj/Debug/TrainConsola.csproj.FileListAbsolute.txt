@@ -1,0 +1,6 @@
+D:\visualprojekty\TrainConsola\TrainConsola\bin\Debug\TrainConsola.exe.config
+D:\visualprojekty\TrainConsola\TrainConsola\bin\Debug\TrainConsola.exe
+D:\visualprojekty\TrainConsola\TrainConsola\bin\Debug\TrainConsola.pdb
+D:\visualprojekty\TrainConsola\TrainConsola\obj\Debug\TrainConsola.csprojResolveAssemblyReference.cache
+D:\visualprojekty\TrainConsola\TrainConsola\obj\Debug\TrainConsola.exe
+D:\visualprojekty\TrainConsola\TrainConsola\obj\Debug\TrainConsola.pdb
